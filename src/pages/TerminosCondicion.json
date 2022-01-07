@@ -1,0 +1,66 @@
+{
+    "TratamientoDatosPersonales": {
+        "GetFieldBy": "id",
+        "ValueToFind": "lbTitulo"
+    },
+    "EnrolamientoFacial": {
+        "GetFieldBy": "id",
+        "ValueToFind": "lbTitulo"
+    },
+    "HabeasData": {
+        "GetFieldBy": "id",
+        "ValueToFind": "lbTitulo"
+    },
+    "TextoPoliticaTD": {
+        "GetFieldBy": "id",
+        "ValueToFind": "lblComplemento"
+    },
+    "TextoPoliticaEF": {
+        "GetFieldBy": "id",
+        "ValueToFind": "lblComplemento"
+    },
+    "TextoPoliticaHD": {
+        "GetFieldBy": "id",
+        "ValueToFind": "lblComplemento"
+    },
+    "btnAceptar": {
+        "GetFieldBy": "name",
+        "ValueToFind": "btnAceptar"
+    },
+    "btnRechazar": {
+        "GetFieldBy": "id",
+        "ValueToFind": "btnRechazar"
+    },
+    "GuardarFlujo1": {
+        "GetFieldBy": "id",
+        "ValueToFind": "verificarFlujo1"
+    },
+    "GuardarFlujo2": {
+        "GetFieldBy": "id",
+        "ValueToFind": "verificarFlujo2"
+    },
+    "GuardarFlujo3": {
+        "GetFieldBy": "id",
+        "ValueToFind": "verificarFlujo3"
+    },
+    "btnAceptarModal": {
+        "GetFieldBy": "name",
+        "ValueToFind": "btnAceptarModal"
+    },
+    "btnVolverModal": {
+        "GetFieldBy": "id",
+        "ValueToFind": "btn_CancelarInmofianza"
+    },
+    "btnCancelarModal": {
+        "GetFieldBy": "name",
+        "ValueToFind": "btnCancelarModal"
+    },
+    "AsersionTituloTerminosCondiciones": {
+        "GetFieldBy": "xpath",
+        "ValueToFind": "/html/body/form/div[3]/div/div/div/div[2]/div[1]/div/div[1]/div/div/h4"
+    },
+    "AsersionTituloAprobacionDoc": {
+        "GetFieldBy": "xpath",
+        "ValueToFind": "/html/body/div/div/div[1]/div/div[2]/form/div[3]/div/div[1]/div/div/h4"
+    }
+}
