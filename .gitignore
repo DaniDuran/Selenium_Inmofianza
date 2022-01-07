@@ -9,3 +9,4 @@ src/classes/__pycache__/*
 src/data/capturas/*
 EnviromentInmof/*
 src/functions/Inicializar.py
+.vscode/*
