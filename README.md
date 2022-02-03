@@ -17,7 +17,7 @@ _Proyecto de pruebas automatizadas con selenium webdriver para el aplicativo Omn
 ## `Pre-requisitos` 📋<a name="id2"></a>
 
 ### `Librerías`<a name="id1_1"></a>
-_Se debe tener instalado python y el paquete pip adicional a esto se debe instalar los siguientes componentes mediante el archivo_ __requirements.txt__ _con el siguiente comando_ **`pip install -r requirements.txt`**
+_Se debe tener instalado python (version 3.9.7, versiones superiores generan conflictos con la libreria pyodbc) y el paquete pip, adicional a esto se debe instalar los siguientes componentes mediante el archivo_ __requirements.txt__ _con el siguiente comando_ **`pip install -r requirements.txt`**
 
 
 
